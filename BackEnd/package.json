@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "joi": "^13.4.0",
+    "joi-objectid": "^2.0.0",
+    "mongodb": "^4.1.2",
+    "mongoose": "^6.0.9",
+    "nodemon": "^2.0.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rabeez Mohamed",
+  "license": "ISC"
+}
